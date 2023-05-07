@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./PyDew-Valley-main/s22 -Trader/code"
+    ]
+}
